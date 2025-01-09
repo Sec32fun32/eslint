@@ -172,7 +172,7 @@
     "load-perf": "^0.2.0",
     "markdown-it": "^12.2.0",
     "markdown-it-container": "^3.0.0",
-    "marked": "^4.0.8",
+    "marked": "^15.0.4",
     "metascraper": "^5.25.7",
     "metascraper-description": "^5.25.7",
     "metascraper-image": "^5.29.3",
